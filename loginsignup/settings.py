@@ -151,7 +151,7 @@ EMAIL_HOST='smtp.gmail.com'
 EMAIL_ROOT=587
 EMAIL_USE_TLS=True
 
-EMAIL_HOST_USER="mavomawi@gmail.com"
-EMAIL_HOST_PASSWORD="@Mavoa2z"
+EMAIL_HOST_USER="your email"
+EMAIL_HOST_PASSWORD="23456776543"
 
 # @Maw1&a..
